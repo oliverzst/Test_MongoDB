@@ -11,7 +11,7 @@ import com.mongodb.DBObject;
  * 时间： 2014-8-30 下午03:46:55 
  * 描述： TODO(这里用一句话描述这个类的作用)  
  */  
-public interface MongoDBDao {  
+public interface MongoDBDao {     
     /** 
      *  
      * 方法名：getDb 
